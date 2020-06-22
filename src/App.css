@@ -1,0 +1,13 @@
+#addprt {
+  padding: 1rem;
+  background-color: lawngreen;
+}
+
+#stud {
+  text-align: center;
+  margin: 0;
+}
+
+.break {
+  clear: both;
+}
